@@ -12,7 +12,7 @@ const Login: React.FC<Props> = (props) => {
         <Link to="/dashboard"><span className="text-blue-700">Dashboard Page</span></Link>
     </div>
 
-
+    
 );
 };
 
